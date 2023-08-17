@@ -1,0 +1,17 @@
+1.wirte a blog on difference between http1.1 and http2 ?
+	
+	* HTTP 1.1 loads resources one by one. If one load of resource gets blocked it blocks every load of resource.
+
+        * HTTP2 is exactly contrast to HTTP 1.1. In here it uses single TCP  connection, hence no block of resources can be done.
+
+
+2.Write a blog about objects and its internal representation in Javascript ?
+	
+	*Object is one of the data type in javascript. it is most impartand datatype in JS.
+
+	* object data type is difference compared to datatype 
+        
+        * For examble in object # let fruit = "apple";
+
+	* The reference value to the location in memory where the object is stored.
+
